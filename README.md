@@ -1,6 +1,6 @@
 # Samanta Singh
 ## Dsgn-270-a3 - SVG Logo Design
-- A headphone company was the subject of the design idea. The svg logo was inspired by a company that creates headphones that allow users to fully immerse themselves in their music, disconnect from the outer world, and enjoy themselves. The logo is a pair of headphones linked together, allowing the consumer to form an incredible bond with the heapdhones they own.
+- A headphone company was the subject of the design idea. The svg logo was inspired by a company that creates headphones that allow users to fully immerse themselves in their music, disconnect from the outer world, and enjoy themselves. The logo is a pair of headphones linked together, allowing the consumer to form an incredible bond with the heapdhones they own. The project was pretty complicated, my classmates also had lots of problems doing this assignment. But in the end we worked together and kind of got an idea of it all.
 
 ## Below is an image of my final project on figma.
 
