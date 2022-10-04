@@ -1,0 +1,18 @@
+body {
+  background-color: gray
+}
+svg {
+  background-color: white;
+  width: 20rem;
+  height: auto;
+}
+svg:hover {
+  background-color: yellow;
+
+}
+
+img {
+  display: block;
+  align-items: center;
+  height: 30em;
+}
